@@ -22,7 +22,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
  */
 public class Gittest implements EntryPoint {
 	/**
-	 * The message displayed to the user when the server cannot be reached or
+	 * The message displayed to the user when the server cannot be reached or lololol
 	 * returns an error.
 	 */
 	private static final String SERVER_ERROR = "An error occurred while "
