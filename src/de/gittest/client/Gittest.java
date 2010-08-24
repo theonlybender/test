@@ -36,7 +36,7 @@ public class Gittest implements EntryPoint {
 			.create(GreetingService.class);
 
 	/**
-	 * This is the entry point method.
+	 * This is the entry point method. adasd adg 
 	 */
 	public void onModuleLoad() {
 		final Button sendButton = new Button("Send");
